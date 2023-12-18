@@ -1,5 +1,9 @@
 # Retail Predictions with Azure FedML
-https://github.com/SAP-samples/datasphere-fedml/blob/main/README.md
+### Related links:
+- https://github.com/SAP-samples/datasphere-fedml/blob/main/README.md
+- https://blogs.sap.com/2021/11/23/federated-machine-learning-using-sap-data-warehouse-cloud-and-azure-machine-learning/
+- https://discovery-center.cloud.sap/protected/index.html#/missiondetail/3944/4145/
+
 ## 1. Datasphere to BigQuery
 - Navigate to BigQuery -> Create a new dataset -> Add data in the dataset
 - In GCP console, navigate to IAM / Service Account / Create Service Account. (SAP Datasphere & Google BigQuery connection)
