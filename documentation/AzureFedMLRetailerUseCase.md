@@ -1,4 +1,4 @@
-# FedML Retail Predictions with Azure
+# Retail Predictions with Azure FedML
 https://github.com/SAP-samples/datasphere-fedml/blob/main/README.md
 ## 1. Datasphere to BigQuery
 - Navigate to BigQuery -> Create a new dataset -> Add data in the dataset
