@@ -20,6 +20,7 @@ https://github.com/SAP-samples/datasphere-fedml/blob/main/README.md
 ### Authorizing Google connection in SAP Datasphere
 - To authorize **Google BigQuery** inside **SAP Datasphere**, add the certificate which can be found in the websites certificate section.
 - Navigate to www.google.com in web browser and follow these steps (Note: process may vary for different browsers)
+
 ![con1](./dspcon1.png)<br>
 ![con2](./dspcon2.png)<br>
 ![con3](./dspcon3.png)<br>
@@ -55,6 +56,7 @@ https://github.com/SAP-samples/datasphere-fedml/blob/main/README.md
 #### Usage
 - DbConnection class allows us to establish a connection between SAP Datasphere's database user and python notebook. (This class differs for each platform hence refer to relative documentation).
 - Whenever the object of this class is created, a new resource is created in datasphere under **sources** section in data builder artifacts.
+- 
 ![dspuser](./dspuser.png)
 - Once the model is ready and trained, we can use it and store the output dataframe into a new table
 - Create a new table by following syntax
