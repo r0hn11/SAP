@@ -20,10 +20,10 @@ https://github.com/SAP-samples/datasphere-fedml/blob/main/README.md
 ### Authorizing Google connection in SAP Datasphere
 - To authorize **Google BigQuery** inside **SAP Datasphere**, add the certificate which can be found in the websites certificate section.
 - Navigate to www.google.com in web browser and follow these steps (Note: process may vary for different browsers)
-![con1](./dspcon1.png)
-![con2](./dspcon2.png)
-![con3](./dspcon3.png)
-![con4](./dspcon4.png)
+![con1](./dspcon1.png)<br>
+![con2](./dspcon2.png)<br>
+![con3](./dspcon3.png)<br>
+![con4](./dspcon4.png)<br>
 
 - Export and download the certificate into local storage.
 - In SAP Datasphere, navigate to ***System/Configuration*** and under **Security tab** add a new SSL/TSL certificate. Upload recently downloaded certificate (.pem or .cert)
