@@ -53,6 +53,7 @@
 ### Bringing Data from Datasphere into python
 #### Setup
 - FedML library for each platform can be installed using pip command. This documentation focuses on Azure cloud platform.
+- To create the 'config' file for datasphere follow instructions **[DbConnection class](https://github.com/SAP-samples/datasphere-fedml/blob/main/dbconnection.md)**
 - Execute command `pip install fedml-azure --force-reinstall` to install fedML library for azure
 - import the **DbConnection** class `from fedml_azure import DbConnection`
 	- follow **[DbConnection class](https://github.com/SAP-samples/datasphere-fedml/blob/main/dbconnection.md)** for detailed explanation
