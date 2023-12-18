@@ -1,0 +1,10 @@
+dependencies:
+- python=3.8
+- scikit-learn
+- lightgbm
+- pip
+- pip:
+  - fedml_azure
+  - azureml-defaults
+  - pandas
+  - hdbcli
